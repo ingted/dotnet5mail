@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qozU6M5CjEFA0izUfdDlSX1T4jjal2pMenj98XdKMbes6VwWqK13GQZ9mqkptrUwUnOqFlotZRh0MV0sPpVqXg==",
+  "success": true,
+  "projectFilePath": "Z:\\SharFTrade\\TestEmail\\TestEmail.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anibal\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
